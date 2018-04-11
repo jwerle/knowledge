@@ -1,7 +1,7 @@
 01 - Introduction to Cryptography
 =================================
 
-`https://www.youtube.com/watch?v=2aHkqB2-46k&list=PLDXujhFmVqiYq4pIzeA61ckC7sCwY6C50&t=1949s&index=1`
+https://www.youtube.com/watch?v=2aHkqB2-46k&list=PLDXujhFmVqiYq4pIzeA61ckC7sCwY6C50&t=1949s&index=1
 
 
 ## 0. Cryptology

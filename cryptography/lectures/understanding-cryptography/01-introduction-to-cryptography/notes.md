@@ -3,7 +3,6 @@
 
 https://www.youtube.com/watch?v=2aHkqB2-46k&list=PLDXujhFmVqiYq4pIzeA61ckC7sCwY6C50&t=1949s&index=1
 
-
 ## 0. Cryptology
 
 *Cryptology* splits into two distinct branches of study.
